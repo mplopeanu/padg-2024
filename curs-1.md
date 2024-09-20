@@ -5,3 +5,5 @@
 ## Realizarea paginilor WEB
 
 ### Structura unei pagini HTML - varianta 1
+
+$a^b$
