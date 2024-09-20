@@ -11,6 +11,6 @@
 
 ### Structura unei pagini HTML - varianta 1
 
-Ecuatia: <$a^{214}$> - are valoarea corecta
+Ecuatia: $$a^{214}$$ - are valoarea corecta
 
 $$ a^{b\neq a} $$
