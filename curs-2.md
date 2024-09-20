@@ -18,6 +18,6 @@ Ecuatia: $$a^{214}$$ - are valoarea corecta
 
 $$ a^{b\neq a} $$
 
-> Vezi si [Cursul 2](curs-2.md)
+Vezi si [Cursul 1](curs-1.md)
 
 [Homepage](index.md)
