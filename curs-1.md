@@ -12,4 +12,6 @@
 
 ### Structura unei pagini HTML - varianta 1
 
-$a^b$
+\[ a^b \]
+
+$ a^b $
