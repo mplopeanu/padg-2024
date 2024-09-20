@@ -5,6 +5,8 @@
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
+
+
 ![aici](/assets/geo1.jpg)
 
 # Curs 1
