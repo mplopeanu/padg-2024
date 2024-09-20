@@ -11,6 +11,6 @@
 
 ### Structura unei pagini HTML - varianta 1
 
-Atentie! $ a^{214} $ - este valoarea corecta
+Atentie! $a^{214}$ - este valoarea corecta
 
 $$ a^{b\neq a} $$
