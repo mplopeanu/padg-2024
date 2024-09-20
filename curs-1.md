@@ -1,4 +1,6 @@
-[Home](/index.md)
+![aici](/assets/geo1.jpg)
+
+Homepage: [aici.](/index.md)
 
 
 <script type="text/javascript" async
@@ -6,14 +8,11 @@
 </script>
 
 
+# Curs 1: Realizarea paginilor WEB
 
-![aici](/assets/geo1.jpg)
+- SSR vs SSG
 
-# Curs 1
-
-## Realizarea paginilor WEB
-
-### Structura unei pagini HTML - varianta 1
+## 1.1. Structura unei pagini HTML - varianta 1
 
 Ecuatia: $$a^{214}$$ - are valoarea corecta
 
