@@ -1,7 +1,9 @@
 ![aici](/assets/geo1.jpg)
 
 # Cursuri PADG 
->[anul universitar: 2024-2025]
+<!-- >[anul universitar: 2024-2025] -->
+<span style="color:darkred;">[anul universitar: 2024-2025]</span>
+
 
 # Lista cursurilor
 
